@@ -1,0 +1,20 @@
+PyDev console: starting.
+Python 2.7.18 |Anaconda, Inc.| (default, Apr 23 2020, 17:26:54) [MSC v.1500 64 bit (AMD64)] on win32
+runfile('C:/Users/HooBe/PycharmProjects/AGH_ESL_Tutorials/Background_information/Generator.py', wdir='C:/Users/HooBe/PycharmProjects/AGH_ESL_Tutorials/Background_information')
+generator()
+<generator object generator at 0x0000000004CDD7C8>
+g=generator()
+g.next()
+0
+g.next()
+1
+g.next()
+2
+g.next()
+3
+g.next()
+4
+g.next()
+Traceback (most recent call last):
+  File "<input>", line 1, in <module>
+StopIteration
